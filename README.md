@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **themechanic25@hotmail.com**
 
-- 📄 Know about my experiences [www.linkedin.com/in/yannick-charland](www.linkedin.com/in/yannick-charland)
+- 📄 Know about my experiences [https://www.linkedin.com/in/yannick-charland/](www.linkedin.com/in/yannick-charland)
 
 - ⚡ Fun fact **I am a Mechanic by trade**
 
