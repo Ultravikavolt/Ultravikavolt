@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **CS50P, python**
 
-- 📫 How to reach me **themechanic25@hotmail.com**
-
 - 📄 Know about my experiences [https://www.linkedin.com/in/yannick-charland/](www.linkedin.com/in/yannick-charland)
 
 - ⚡ Fun fact **I am a Mechanic by trade**
